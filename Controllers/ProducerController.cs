@@ -18,10 +18,9 @@ namespace ECS_ProducerWebAPI.Controllers
         }
 
         [HttpPost]
-        public Task<IActionResult> SendMessage([FromBody] Message message)
+        public async Task<IActionResult> SendMessage([FromBody] Message message)
         {
             //Send the message to Queue 
-
             return Ok("Message Sent");
         }
 
