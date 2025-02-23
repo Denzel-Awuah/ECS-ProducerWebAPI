@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ECS-ProducerWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8552e0d27897251a7713ad579e53c7cd08e96adf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d78612c5605bcd02b7063ca474d8db1ebc3c10f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ECS-ProducerWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ECS-ProducerWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

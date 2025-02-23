@@ -5,6 +5,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ECS_ProducerWebAPI.Controllers
 {
+    /// <summary>
+    /// Producer Controller to communicate with S3
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class ProducerController : ControllerBase
