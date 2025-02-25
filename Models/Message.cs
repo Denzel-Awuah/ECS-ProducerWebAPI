@@ -1,5 +1,8 @@
 ﻿namespace ECS_ProducerWebAPI.Models
 {
+    /// <summary>
+    /// Message Model 
+    /// </summary>
     public class Message
     {
         public int id { get; set; }
