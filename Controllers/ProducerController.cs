@@ -13,6 +13,9 @@ namespace ECS_ProducerWebAPI.Controllers
     public class ProducerController : ControllerBase
     {
 
+        /// <summary>
+        /// Client to communicate with AWS SQS
+        /// </summary>
         private IAmazonSQS sqsClient;
 
         public ProducerController(IAmazonSQS sqsClient)
